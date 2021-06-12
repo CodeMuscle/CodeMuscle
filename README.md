@@ -13,11 +13,13 @@
 
 ### Scripting Languages 
 
+<code><a href="https://freeimage.host/"><img src="https://iili.io/Bp6wAv.png" alt="Bp6wAv.png" border="0"></a><br /><a target='_blank' href='https://freeimage.host/'></a><br /></code>
+<code><a href="https://freeimage.host/"><img src="https://iili.io/Bp6NNR.png" alt="Bp6NNR.png" border="0"></a><br /><a target='_blank' href='https://freeimage.host/'></a><br/></code>
+<code><a href="https://freeimage.host/"><img src="https://iili.io/Bp6Otp.png" alt="Bp6Otp.png" border="0"></a><br /><a target='_blank' href='https://freeimage.host/'></a><br/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+
 
 <br/>
 
