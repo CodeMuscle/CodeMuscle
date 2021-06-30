@@ -6,9 +6,9 @@
 [![Twitter](https://img.shields.io/twitter/follow/GaneshGovind7?style=social)](https://twitter.com/GaneshGovind7) &nbsp;
 [![Linkedin](https://img.shields.io/badge/-xenodromekid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xenodormekid/)](https://www.linkedin.com/in/xenodromekid/) &nbsp;
 [![website](https://img.shields.io/badge/PortfolioWebsite-ganeshdev.live-2648ff?style=flat-square&logo=google-chrome)]() &nbsp;
-[![GitHub](https://img.shields.io/github/followers/CodeMuscle?label=follow&style=social)](https://github.com/CodeMuscle) &nbsp;
-
-<code><a href="https://codepen.io/codemuscle/pens/"><img src="https://i.ibb.co/3FDKTjq/Button-Fill-White-Large.png" alt="2038730" border="0" width="40px" height="40px"></a><br /><a target='_blank' href='https://codepen.io/codemuscle/pens/'></a><br /></code>
+[![GitHub](https://img.shields.io/github/followers/CodeMuscle?label=follow&style=social)](https://github.com/CodeMuscle) &nbsp; <br/>
+                                                                  
+►►►►►►►►►►►►►►►►►►►►►   <code><a href="https://codepen.io/codemuscle/pens/"><img src="https://i.ibb.co/3FDKTjq/Button-Fill-White-Large.png" alt="2038730" border="0" width="30px" height="30px" target='_blank'></a><br /></code> ◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄
 
 ### Scripting Languages 
 
