@@ -7,8 +7,8 @@
 [![Linkedin](https://img.shields.io/badge/-xenodromekid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xenodormekid/)](https://www.linkedin.com/in/xenodromekid/) &nbsp;
 [![website](https://img.shields.io/badge/PortfolioWebsite-ganeshdev.live-2648ff?style=flat-square&logo=google-chrome)]() &nbsp;
 [![GitHub](https://img.shields.io/github/followers/CodeMuscle?label=follow&style=social)](https://github.com/CodeMuscle) &nbsp;
-[![Codepen]()](https://codepen.io/codemuscle/pens/) &nbsp;
-
+Codepen - https://codepen.io/codemuscle/pens/
+<i class="fab fa-codepen" href="https://codepen.io/codemuscle/pens/" target="_blank"></i>
 
 ### Scripting Languages 
 
