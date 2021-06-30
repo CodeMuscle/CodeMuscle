@@ -8,7 +8,7 @@
 [![website](https://img.shields.io/badge/PortfolioWebsite-ganeshdev.live-2648ff?style=flat-square&logo=google-chrome)]() &nbsp;
 [![GitHub](https://img.shields.io/github/followers/CodeMuscle?label=follow&style=social)](https://github.com/CodeMuscle) &nbsp;
 Codepen - https://codepen.io/codemuscle/pens/
-<code><a href="https://codepen.io/codemuscle/pens/"><img src="https://i.ibb.co/fF3tVMY/2038730.png" alt="2038730" border="0" style="width="20px"; height="20px";"></a><br /><a target='_blank' href='https://codepen.io/codemuscle/pens/'></a><br /></code>
+<code><a href="https://codepen.io/codemuscle/pens/"><img src="https://i.ibb.co/fF3tVMY/2038730.png" alt="2038730" border="0" width="20px" height="20px"></a><br /><a target='_blank' href='https://codepen.io/codemuscle/pens/'></a><br /></code>
 
 ### Scripting Languages 
 
