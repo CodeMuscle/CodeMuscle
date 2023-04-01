@@ -1,14 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeMuscle&label=Views&color=blue&style=plastic" alt="codemuscle" /> </p>
 
-<a href="https://freeimage.host/i/Bp2m74"><img src="https://iili.io/Bp2m74.md.jpg" alt="Bp2m74.md.jpg" border="0"></a>
+<!-- <a href="https://freeimage.host/i/Bp2m74"><img src="https://iili.io/Bp2m74.md.jpg" alt="Bp2m74.md.jpg" border="0"></a> -->
+<a target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
 
 
 [![Twitter](https://img.shields.io/twitter/follow/GaneshGovind7?style=social)](https://twitter.com/GaneshGovind7) &nbsp;
 [![Linkedin](https://img.shields.io/badge/-ganeshgovind21-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganeshgovind21/)](https://www.linkedin.com/in/ganeshgovind21) &nbsp;
-[![website](https://img.shields.io/badge/PortfolioWebsite-2648ff?style=flat-square&logo=google-chrome)](https://ganesh22-portfolio.netlify.app/) &nbsp;
-[![GitHub](https://img.shields.io/github/followers/CodeMuscle?label=follow&style=social)](https://github.com/CodeMuscle) &nbsp; <br/>
-                                                                  
-►►►►►►►►►►►►►►►►►►►►►   <code><a href="https://codepen.io/codemuscle/pens/"><img src="https://i.ibb.co/3FDKTjq/Button-Fill-White-Large.png" alt="2038730" border="0" width="30px" height="30px" target='_blank'></a><br /></code> <code><a href="https://www.behance.net/CodeMuscle"><img src="https://i.ibb.co/LgQbYXP/behance-icon-logo-287-E5-C6-D93-seeklogo-com.png" alt="behance-icon-logo-287-E5-C6-D93-seeklogo-com" border="0" width="30px" height="30px" target='_blank'></a><br /></code> ◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄◄
+[![website](https://img.shields.io/badge/PortfolioWebsite-2648ff?style=flat-square&logo=google-chrome)](https://ganesh-portfolio-nine.vercel.app/) &nbsp;
+<code><a href="https://codepen.io/codemuscle/pens/"><img src="https://i.ibb.co/3FDKTjq/Button-Fill-White-Large.png" alt="2038730" border="0" width="30px" height="30px" target='_blank'></a><br /></code>
 
 ### Scripting Languages 
 
@@ -16,8 +15,8 @@
 <code><a href="https://freeimage.host/"><img src="https://iili.io/Bp6NNR.png" alt="Bp6NNR.png" border="0"></a><br /><a target='_blank' href='https://freeimage.host/'></a><br/></code>
 <code><a href="https://freeimage.host/"><img src="https://iili.io/Bp6Otp.png" alt="Bp6Otp.png" border="0"></a><br /><a target='_blank' href='https://freeimage.host/'></a><br/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code> -->
 
 
 <br/>
