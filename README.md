@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://ganesh-portfolio-nine.vercel.app/)
 
-- ⚡ Fun fact: **I find serial-killers amusing**
+- ⚡ Fun fact: **I find serial-killers amusing!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
