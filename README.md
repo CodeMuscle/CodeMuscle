@@ -12,4 +12,4 @@
 <td><a href="https://instagram.com/ganeshxgovind"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a></td>
 </tr></table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMuscle&" alt="CodeMuscle" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMuscle&" alt="CodeMuscle" /></p> -->
