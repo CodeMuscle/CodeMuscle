@@ -9,7 +9,7 @@
 
 <table><tr>
 <td><a href="https://linkedin.com/in/ganeshgovind21"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a></td>
-<td><a href="https://instagram.com/ganeshxgovind"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a></td>
+<td><a href="https://instagram.com/ganeshxgovind"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" height="30" width="40" /></a></td>
 </tr></table>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMuscle&" alt="CodeMuscle" /></p> -->
