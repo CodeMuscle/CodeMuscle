@@ -6,10 +6,11 @@
 - ⚡ Fun fact: **I find serial-killers amusing!**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/ganeshgovind21"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="30" /></a>&nbsp;&nbsp;<a href="https://x.com/buildwithgg"><img src="https://www.iconsdb.com/icons/preview/white/twitter-x-xxl.png" height="20" width="20" /></a>
 
-<table><tr>
-<td><a href="https://linkedin.com/in/ganeshgovind21"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" /></a></td>
-<td><a href="https://x.com/buildwithgg"><img src="https://www.iconsdb.com/icons/preview/white/twitter-x-xxl.png" height="40" width="40" /></a></td>
-</tr></table>
+<!-- <table><tr>
+<td></td>
+<td></td>
+</tr></table> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMuscle&" alt="CodeMuscle" /></p> -->
